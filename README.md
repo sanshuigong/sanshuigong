@@ -31,6 +31,8 @@ Remember to follow my blog 📚, and let's grow 🌱 and explore the infinite po
 
 Personal Blog: [Next Shan Shui](https://nextshanshui.com) 🌐
 
+My AI Name Generator website : [ai the name](https://aithename.com/) 🌐
+
 ---
 
 大家好！👋
@@ -64,6 +66,8 @@ Personal Blog: [Next Shan Shui](https://nextshanshui.com) 🌐
 记得关注我的博客 📚，我们一同成长 🌱，一同探索无限可能的技术掘金世界 🛠️！
 
 个人博客: [Next 山水](https://nextshanshui.com) 🌐
+
+我的 AI 名字生成器网站 : [ai the name](https://aithename.com/) 🌐
 <!---
 sanshuigong/sanshuigong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
